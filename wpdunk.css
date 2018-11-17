@@ -1,0 +1,57 @@
+h1 {
+    font-family: montserrat;
+    font-weight: bold;
+    font-size: 160px;
+    color: #525354;
+    float: left;
+    display: block;
+    position: absolute;
+    padding: 6% 0 0 4%;
+}
+
+img {
+    padding-top: 6%;
+}
+
+nav {
+    padding: 2% 2% 0 0;
+}
+
+ul {
+    list-style-type: none;
+}
+
+nav ul li {
+    display: inline-block;
+    float: right;
+    font-size: 36px;
+    text-transform: uppercase;
+    font-weight: 700;
+    padding: 20px 10px;
+  }
+
+nav ul li a:visited {
+    color: ##5c9ee0;
+}
+
+nav ul li a {
+    color: #35affc;
+}
+
+nav ul li a:hover {
+    color: #b7e3ff;
+    text-decoration: none;
+}
+
+.mail {
+    font-family: montserrat;
+    font-size: 16px;
+    text-align: center;
+    margin: 2% auto;
+    color: black;
+}
+
+.mail:hover {
+  color: #b7e3ff;
+  text-decoration: none;
+  }
